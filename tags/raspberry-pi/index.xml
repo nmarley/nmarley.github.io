@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>raspberry-pi on Mostly Hardware, Software and Farming</title>
+    <link>https://nmarley.github.io/tags/raspberry-pi/</link>
+    <description>Recent content in raspberry-pi on Mostly Hardware, Software and Farming</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 19 Jul 2023 14:46:58 -0300</lastBuildDate><atom:link href="https://nmarley.github.io/tags/raspberry-pi/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Automate Outdoor Lights with a Raspberry Pi Pico</title>
+      <link>https://nmarley.github.io/posts/photocell-array/</link>
+      <pubDate>Wed, 19 Jul 2023 14:46:58 -0300</pubDate>
+      
+      <guid>https://nmarley.github.io/posts/photocell-array/</guid>
+      <description>Every morning I wake up and have to remember to turn off the outdoor lights in 2 places &amp;ndash; two switches in the front yard, and one switch at the back of the house. I got to thinking, it would be great to be able to automate this to just let technology do it for me. Then I remembered the photoresistors that I picked up a few weeks ago just for projects like this.</description>
+    </item>
+    
+  </channel>
+</rss>

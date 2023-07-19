@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mostly Hardware, Software and Farming</title>
+    <link>https://nmarley.github.io/</link>
+    <description>Recent content on Mostly Hardware, Software and Farming</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 19 Jul 2023 14:46:58 -0300</lastBuildDate><atom:link href="https://nmarley.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Automate Outdoor Lights with a Raspberry Pi Pico</title>
+      <link>https://nmarley.github.io/posts/photocell-array/</link>
+      <pubDate>Wed, 19 Jul 2023 14:46:58 -0300</pubDate>
+      
+      <guid>https://nmarley.github.io/posts/photocell-array/</guid>
+      <description>Every morning I wake up and have to remember to turn off the outdoor lights in 2 places &amp;ndash; two switches in the front yard, and one switch at the back of the house. I got to thinking, it would be great to be able to automate this to just let technology do it for me. Then I remembered the photoresistors that I picked up a few weeks ago just for projects like this.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://nmarley.github.io/about/</link>
+      <pubDate>Wed, 19 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nmarley.github.io/about/</guid>
+      <description>Welcome to BeatBeets, where cutting-edge technology meets the fertile fields of agriculture. We are passionate about revolutionizing the farming industry by harnessing the power of computer hardware (microcontrollers) and software. Our mission is to empower farmers with innovative tools and solutions that optimize their operations, increase productivity, and promote sustainable practices.
+Explore Our Smart Farming Solutions:
+Microcontroller-driven Precision Agriculture: With our advanced microcontrollers, we enable farmers to monitor and control various aspects of their farms remotely.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://nmarley.github.io/archives/</link>
+      <pubDate>Tue, 18 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://nmarley.github.io/archives/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
